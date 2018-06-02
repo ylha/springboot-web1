@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-jpa/demo-jpa.iml" filepath="$PROJECT_DIR$/demo-jpa/demo-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-mybatis/demo-mybatis.iml" filepath="$PROJECT_DIR$/demo-mybatis/demo-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-mybatis-transactional/demo-mybatis-transactional.iml" filepath="$PROJECT_DIR$/demo-mybatis-transactional/demo-mybatis-transactional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" filepath="$PROJECT_DIR$/springboot-mongodb/springboot-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq/springboot-rabbitmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-redis/springboot-redis.iml" filepath="$PROJECT_DIR$/springboot-redis/springboot-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-schedulingtask/springboot-schedulingtask.iml" filepath="$PROJECT_DIR$/springboot-schedulingtask/springboot-schedulingtask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-uploadfile/springboot-uploadfile.iml" filepath="$PROJECT_DIR$/springboot-uploadfile/springboot-uploadfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.iml" filepath="$PROJECT_DIR$/.idea/test.iml" />
+    </modules>
+  </component>
+</project>

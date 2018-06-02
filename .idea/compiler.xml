@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-jpa" />
+        <module name="demo-mybatis" />
+        <module name="demo-mybatis-transactional" />
+        <module name="springboot-mongodb" />
+        <module name="springboot-rabbitmq" />
+        <module name="springboot-redis" />
+        <module name="springboot-schedulingtask" />
+        <module name="springboot-uploadfile" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-jpa" target="1.8" />
+      <module name="demo-mybatis" target="1.8" />
+      <module name="demo-mybatis-transactional" target="1.8" />
+      <module name="springboot-mongodb" target="1.8" />
+      <module name="springboot-rabbitmq" target="1.8" />
+      <module name="springboot-redis" target="1.8" />
+      <module name="springboot-schedulingtask" target="1.8" />
+      <module name="springboot-uploadfile" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
